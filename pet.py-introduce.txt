@@ -1,0 +1,3 @@
+1.The def ( ) of this function says that it expects an animal type and a name. When we call describe_pet( ), we need to provide an animal type and a name, in that order. 
+2.For example, in the function call, the argument 'hamster' was assigned to the parameter animal_type, and the argument 'harry' was assigned to the parameter pet_name. 
+3.In the body of the function, these two parameters are used to display information about the pet.
